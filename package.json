@@ -3,10 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "CI= npm run build",
-    "preview": "vite preview"
+  "scripts": {  
+    "build": "CI= npm run build"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.7",
